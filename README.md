@@ -1,4 +1,4 @@
-Hi, I’m Dmitrii — frontend developer with over 3 years of experience working with React and Next.js 👋
+Hi, I’m Dmitrii — Fullstack developer of experience working with React and Next.js 👋
 I build scalable web applications from scratch and improve large existing codebases.
 
 I have experience with international products, design systems, authentication, localization, and real-time features 💻
