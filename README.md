@@ -1,1 +1,5 @@
-Fullstack developer | Building scalable web applications with a focus on performance and clean code. 💻🚀
+**Fullstack Developer** 💻
+
+Building scalable web applications.
+
+Focused on performance, clean code, and great user experience. 🚀
